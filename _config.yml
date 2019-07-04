@@ -1,0 +1,11 @@
+title: Kilo Kitchen
+description: >-
+  Wes Kennedy's recipes
+baseurl: ""
+url: "https://kilo.kitchen"
+twitter_username: livearchivist
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:title
